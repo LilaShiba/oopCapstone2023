@@ -150,4 +150,19 @@ So, go ahead and switch to dark mode to save power and contribute to a greener p
 
 Remember, every little bit helps when it comes to protecting our environment! 🤗💚
 
+# Open Source
+
+## 📝 Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+## 📧 Contact
+
+If you have any questions or need further assistance, feel free to contact by howl-chain 🐶
+
+
 
