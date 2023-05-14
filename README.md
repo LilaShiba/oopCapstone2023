@@ -7,7 +7,7 @@ In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsul
 ## Getting Started 🏁
 
 1. **Create a new Java project** in repl.it. Find the project named tech-demo-final, you can copy/paste your current project code here or use this time to start with a new idea! 🤖
-2. **Choose a theme** for your tech demo. It can be anything you like, such as a zoo, a school, a video game, or even a magical world! You may also build off of the in-class coding examples, e.g., Star Wars game and the deck of cards 🦁🏫🎮🧙
+2. **Choose a theme** for your tech demo. It can be anything you like, such as a zoo, a school, a video game, or even a simulated world! You may also build off of the in-class coding examples, e.g., Star Wars game and the deck of cards 🦁🏫🎮🧙
 3. **Design classes** that represent the different components of your theme, using the OOP concepts you've learned. 🏗
 
 # Demonstrating OOP Concepts 🔍
