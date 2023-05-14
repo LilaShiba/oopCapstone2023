@@ -1,0 +1,35 @@
+# Site settings
+title: OOP Cap Stone 2023
+description: A guide of what's what
+theme: jekyll-theme-cyberpunk
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# SEO settings
+seo:
+  type: website
+  name: OOP Capstone Tech-Demo
+  description: A Thing :)
+  image: /assets/images/cover.png
+
+
+# Footer information
+footer_links:
+  - title: GitHub
+    url: https://github.com/kyle1james
+
+# Customize the Jekyll theme
+# Add any additional configuration specific to your chosen Jekyll theme here
