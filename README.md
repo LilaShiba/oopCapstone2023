@@ -10,7 +10,7 @@ In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsul
 
 # Demonstrating OOP Concepts 🔍
 
-To make sure your tech demo showcases the 4 pillars of OOP, follow these guidelines:
+To make sure your tech demo showcases the 3ish pillars of OOP, follow these guidelines:
 
 ## Encapsulation 🔒
 
@@ -71,9 +71,6 @@ Create a hierarchy of classes, where child classes inherit properties and behavi
   }
   </code></pre>
   Extension: try to create the get methods!
-
-</details>
-
 
 </details>
 
