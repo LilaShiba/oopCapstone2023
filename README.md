@@ -2,9 +2,6 @@
 
 In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism for extra credit. You'll create a fun and interactive program and share with the class via a tech demo that demonstrates your many skills! 🎉🎓
 
-Oh, here's the 🧙‍♀️ [Rubric](https://github.com/kyle1james/oopCapstone2023/blob/main/rubric.md) 🧙‍♀️
-
-
 ## Getting Started 🏁
 
 1. **Create a new Java project** in repl.it. Find the project named tech-demo-final, you can copy/paste your current project code here or use this time to start with a new idea! 🤖
@@ -13,65 +10,70 @@ Oh, here's the 🧙‍♀️ [Rubric](https://github.com/kyle1james/oopCapstone2
 
 # Demonstrating OOP Concepts 🔍
 
-To make sure your tech demo showcases the 3ish pillars of OOP, follow these guidelines:
+To make sure your tech demo showcases the 4 pillars of OOP, follow these guidelines:
 
 ## Encapsulation 🔒
 
 Create classes with private fields and use public methods (getters and setters) to access those fields. This demonstrates data hiding and ensures that the internal state of the object is protected. For example:
 
 <details>
-<summary><strong>Hint for Students</strong></summary>
+  <summary><strong>Hint for Students</strong></summary>
+  
+  <pre><code>
+  // Encapsulation Example
+  // Shape.java
+  class Shape {
+    // Encapsulation 
+    private float area;
 
-```java
-// Encapsulation Example
-// Shape.java
-class Shape {
-  // Encapsulation 
-  private float area;
-
-  // Encapsulation
-  private float perimeter;
-}
-
-// Main.java
-public class Main {
-  public static void main(String[] args) {
-    // Create a Circle object with a radius of 5.0
-    Circle circle = new Circle(5.0);
+    // Encapsulation
+    private float perimeter;
   }
-}
-```
-Extension: try to make this code work while keeping area and perimeter encapsulated
 
+  // Main.java
+  public class Main {
+    public static void main(String[] args) {
+      // Create a Circle object with a radius of 5.0
+      Circle circle = new Circle(5.0);
+    }
+  }
+  </code></pre>
+  Extension: try to make this code work while keeping area and perimeter encapsulated
 </details>
+
+
+
 
 
 ## Inheritance 👨‍👧
 Create a hierarchy of classes, where child classes inherit properties and behaviors from parent classes. This will show how you can reuse code and create more specialized classes using inheritance. For example:
 
 <details>
-<summary><strong>Hint for Students</strong></summary>
-
-```java
-// Inheritance Example
-// Shape.java
-class Shape {
-  // method to calculate the area of the shape
-  public double getArea();
-
-  // method to calculate the perimeter of the shape
-  public double getPerimeter();
-}
-
-// Main.java
-public class Main {
-  public static void main(String[] args) {
-    // Create a Circle object with a radius of 5.0
-    Circle circle = new Circle(5.0);
+  <summary>example</summary>
+  
+  <pre><code>
+  // Inheritance Example
+  // Shape.java
+  class Shape {
+    // method to calculate the area of the shape
+    public double getArea();
+    
+    // method to calculate the perimeter of the shape
+    public double getPerimeter();
   }
-}
-```
-Extension: try to create the get methods!
+  
+  // Main.java
+  public class Main {
+    public static void main(String[] args) {
+      // Create a Circle object with a radius of 5.0
+      Circle circle = new Circle(5.0);
+    }
+  }
+  </code></pre>
+  Extension: try to create the get methods!
+
+</details>
+
 
 </details>
 
@@ -80,37 +82,40 @@ Extension: try to create the get methods!
 Implement abstract classes or interfaces (think custom methods in a class like deck.deal()) to define common behaviors for a group of related classes. This will demonstrate how abstraction can be used to create flexible and extensible code. For example:
 
 <details>
-<summary><strong>Hint for Students</strong></summary>
+  <summary><strong>Hint for Students</strong></summary>
+  
+  <pre><code>
+  // Shape.java
+  class Shape {
+    // method to calculate the area of the shape
+    public double getArea();
 
-```java
-// Shape.java
-class Shape {
-  // method to calculate the area of the shape
-  public double getArea();
+    // method to calculate the perimeter of the shape
+    public double getPerimeter();
+  }
+  
+  // Circle.java
+  class Circle extends Shape {
+    private double radius;
 
-  // method to calculate the perimeter of the shape
-  public double getPerimeter();
-}
-// Circle.java
-class Circle extends Shape {
-  private double radius;
-
-  public Circle(double radius) {
-    this.radius = radius;
+    public Circle(double radius) {
+      this.radius = radius;
+    }
   }
 
-
-// Main.java
-public class Main {
-  public static void main(String[] args) {
-    // Create a Circle object with a radius of 5.0
-    Circle circle = new Circle(5.0);
+  // Main.java
+  public class Main {
+    public static void main(String[] args) {
+      // Create a Circle object with a radius of 5.0
+      Circle circle = new Circle(5.0);
+    }
   }
-}
-```
-Extension: try abstraction outside of main.java
-
+  </code></pre>
+  Extension: try abstraction outside of main.java
 </details>
+
+
+
 
 # Structuring Your Tech Demo 🏗
 
@@ -120,10 +125,6 @@ Extension: try abstraction outside of main.java
 4. **Add fun emojis** 😄 to your `README.md` file and comments to make them more engaging and enjoyable to read! 🎨
 
 Remember to have fun, be creative, and show off your OOP skills! Good luck, and happy coding! 🚀🌟
-
-## Peer Rubric
-
-Use this [Rubric](https://github.com/kyle1james/oopCapstone2023/blob/main/rubric.md) for your peers tech-demos
 
 # Why Dark Mode 🌃🌿
 
