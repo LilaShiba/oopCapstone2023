@@ -1,12 +1,13 @@
 #  Tech Demo 🚀🌟
 
-In this demo, you'll showcase your understanding of the 4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism. You'll create a fun and interactive tech demo that demonstrates your skills! 🎉🎓
+In this demo, you'll showcase your understanding of the 3/4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism for extra credit. You'll create a fun and interactive program and share with the class via a tech demo that demonstrates your many skills! 🎉🎓
 
 ## Getting Started 🏁
 
-1. **Create a new Java project** in repl.it, make sure to share the editable version
-2. **Choose a theme** for your tech demo. It can be anything you like, such as a zoo, a school, a video game, or even a magical world! 🦁🏫🎮🧙
-3. **Design classes** that represent the different components of your theme, using the OOP concepts you've learned. 
+1. **Create a new Java project** in repl.it find the project named tech-demo-final, you can copy/paste your current project code here or use this time to start with a new idea!
+2. 
+3. **Choose a theme** for your tech demo. It can be anything you like, such as a zoo, a school, a video game, or even a magical world! You may also build off of the in-class coding examples, e.g., starwars game and the deck of cards 🦁🏫🎮🧙
+4. **Design classes** that represent the different components of your theme, using the OOP concepts you've learned. 
 
 ## Demonstrating OOP Concepts 🔍
 
@@ -22,7 +23,7 @@ Create a hierarchy of classes, where child classes inherit properties and behavi
 
 ### Abstraction 🎭
 
-Implement abstract classes or interfaces to define common behaviors for a group of related classes. This will demonstrate how abstraction can be used to create flexible and extensible code. Think Main.java
+Implement abstract classes or interfaces (think custom methods in a class like deck.deal() ) to define common behaviors for a group of related classes. This will demonstrate how abstraction can be used to create flexible and extensible code.
 
 ### Polymorphism 🔀
 
@@ -44,7 +45,7 @@ Remember to have fun, be creative, and show off your OOP skills! Good luck, and 
 
 # OOP Tech Demo Presentation Rubric 📋🌟
 
-Use this rubric to evaluate the students' presentations based on their tech demo projects. Each category is scored on a scale of 1 (needs improvement) to 5 (excellent).
+Use this rubric to evaluate your peer's project based on their tech demo. Each category is scored on a scale of 1 (needs improvement) to 5 (excellent).
 
 ## 1. OOP Concepts Demonstrated (Encapsulation, Inheritance, Abstraction, Polymorphism) 🏆
 
