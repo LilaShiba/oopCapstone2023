@@ -2,6 +2,8 @@
 
 Use this rubric to evaluate your peer's project based on their tech demo. Each category is scored on a scale of 1 (needs improvement) to 5 (excellent).
 
+🦙🦙[llama get back to the main page](https://kyle1james.github.io/oopCapstone2023/)🦙🦙
+
 ### 1. OOP Concepts Demonstrated (Encapsulation, Inheritance, Abstraction, Polymorphism) 🏆
 
 - 1: No OOP concepts demonstrated or not clear
@@ -38,4 +40,4 @@ Use this rubric to evaluate your peer's project based on their tech demo. Each c
 - 3: Some use of emojis or fun elements, but could be more engaging
 - 5: Excellent use of emojis and fun elements throughout the project
 
-Remember to provide constructive feedback and encourage your peers to continue improving their skills! 🌟
+Remember to provide 🏗️ constructive🏗️ feedback and encourage your peers to continue improving their skills! 🌟
