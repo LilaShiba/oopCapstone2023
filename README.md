@@ -2,6 +2,8 @@
 
 In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism for extra credit. You'll create a fun and interactive program and share with the class via a tech demo that demonstrates your many skills! 🎉🎓
 
+📋🐈‍⬛ Oh, here's the [rubric](https://kyle1james.github.io/oopCapstone2023/rubric) 📋🐈‍⬛
+
 ## Getting Started 🏁
 
 1. **Create a new Java project** in repl.it. Find the project named tech-demo-final, you can copy/paste your current project code here or use this time to start with a new idea! 🤖
@@ -17,7 +19,7 @@ To make sure your tech demo showcases the 3ish pillars of OOP, follow these guid
 Create classes with private fields and use public methods (getters and setters) to access those fields. This demonstrates data hiding and ensures that the internal state of the object is protected. For example:
 
 <details>
-  <summary><strong>Hint for Students</strong></summary>
+  <summary><strong>example</strong></summary>
   
   <pre><code>
   // Encapsulation Example
@@ -62,6 +64,15 @@ Create a hierarchy of classes, where child classes inherit properties and behavi
     public double getPerimeter();
   }
   
+  // Circle.java
+class Circle extends Shape {
+  private double radius;
+
+  public Circle(double radius) {
+    this.radius = radius;
+  }
+ }
+  
   // Main.java
   public class Main {
     public static void main(String[] args) {
@@ -79,7 +90,7 @@ Create a hierarchy of classes, where child classes inherit properties and behavi
 Implement abstract classes or interfaces (think custom methods in a class like deck.deal()) to define common behaviors for a group of related classes. This will demonstrate how abstraction can be used to create flexible and extensible code. For example:
 
 <details>
-  <summary><strong>Hint for Students</strong></summary>
+  <summary><strong>example</strong></summary>
   
   <pre><code>
   // Shape.java
