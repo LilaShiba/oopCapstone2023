@@ -2,6 +2,9 @@
 
 In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism for extra credit. You'll create a fun and interactive program and share with the class via a tech demo that demonstrates your many skills! 🎉🎓
 
+Oh, here's the 🧙‍♀️ [Rubric](https://github.com/kyle1james/oopCapstone2023/tree/main) 🧙‍♀️
+
+
 ## Getting Started 🏁
 
 1. **Create a new Java project** in repl.it. Find the project named tech-demo-final, you can copy/paste your current project code here or use this time to start with a new idea! 🤖
@@ -117,6 +120,10 @@ Extension: try abstraction outside of main.java
 4. **Add fun emojis** 😄 to your `README.md` file and comments to make them more engaging and enjoyable to read! 🎨
 
 Remember to have fun, be creative, and show off your OOP skills! Good luck, and happy coding! 🚀🌟
+
+## Peer Rubric
+
+Use this [Rubric](https://github.com/kyle1james/oopCapstone2023/tree/main) for your peers tech-demos
 
 # Why Dark Mode 🌃🌿
 
