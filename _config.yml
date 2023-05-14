@@ -1,4 +1,2 @@
-title: OOP Capstone
-remote_theme: cyberjekyll/cyberpunk
-plugins:
-  - jekyll-remote-theme
+# _config.yml
+remote_theme: digitalcraftsman/hugo-cyberpunk-theme
