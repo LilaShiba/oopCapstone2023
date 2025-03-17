@@ -2,7 +2,7 @@
 
 In this demo, you'll showcase your understanding of 3/4 pillars of OOP: Encapsulation, Inheritance, Abstraction, and Polymorphism for extra credit. You'll create a fun and interactive program and share with the class via a tech demo that demonstrates your many skills! 🎉🎓
 
-📋🐈‍⬛ Oh, here's the [rubric](https://kyle1james.github.io/oopCapstone2023/rubric) 📋🐈‍⬛
+📋🐈‍⬛ Oh, here's the [rubric](https://LilaShiba.github.io/oopCapstone2023/rubric) 📋🐈‍⬛
 
 ## Getting Started 🏁
 
